@@ -10,13 +10,16 @@
   <img src="https://img.shields.io/badge/Open_to_work-Available_now-2EA043?style=for-the-badge" alt="Open to work">
 </p>
 
-## About me
+## 🧑‍💻 About me
 
-I'm an AI engineer with an **MSc in Computer Science from Blekinge Institute of Technology (BTH), Sweden**. I build and evaluate applications with large language models and machine learning, mostly in Python, and I like turning research results into tools people can use. I have also completed AWS Solutions Architect – Associate training and enjoy designing how AI systems run in the cloud.
+- 🎓 **MSc in Computer Science**, Blekinge Institute of Technology (BTH), Sweden · **B.Tech in Computer Science**, JNTU College of Engineering Kakinada, India
+- 🎯 Looking for **AI Solutions Architect, AI Engineer, ML Engineer and Data Scientist** roles. Available immediately.
+- 🔭 I build and evaluate applications with **large language models and machine learning**, mostly in Python, and like turning research results into tools people can use.
+- ☁️ Completed **AWS Solutions Architect – Associate** training and enjoy designing how AI systems run in the cloud.
+- 💬 Ask me about LLM evaluation, machine learning, Python or AWS.
+- 📍 Based in Sweden.
 
-I'm looking for **AI Solutions Architect, AI Engineer, ML Engineer and Data Scientist** roles, and I can start immediately.
-
-## Highlights
+## 🚀 Highlights
 
 <table>
   <tr><td width="32%">🏆 <b>Ericsson Build Hackathon 2026</b></td><td>Part of the team that won <b>1st place in Ericsson's Data Storage Optimization challenge</b> (SEK 5,000) and placed 3rd overall.</td></tr>
@@ -25,7 +28,57 @@ I'm looking for **AI Solutions Architect, AI Engineer, ML Engineer and Data Scie
   <tr><td>☁️ <b>Cloud &amp; AI architecture</b></td><td>Completed the AWS Solutions Architect – Associate course (Udemy), with the certification exam coming up. Hands-on with EC2, RDS, VPC, Auto Scaling, IAM and CloudWatch.</td></tr>
 </table>
 
-## Featured projects
+## 🛠️ Tech stack
+
+**AI & LLMs**<br>
+<img src="https://img.shields.io/badge/LLMs-6D28D9?style=flat-square" alt="LLMs">
+<img src="https://img.shields.io/badge/Gemini_2.5_Pro-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini 2.5 Pro">
+<img src="https://img.shields.io/badge/Qwen3-615CED?style=flat-square" alt="Qwen3">
+<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square" alt="Amazon Bedrock">
+<img src="https://img.shields.io/badge/Prompt_engineering-0F766E?style=flat-square" alt="Prompt engineering">
+<img src="https://img.shields.io/badge/NLP-0F766E?style=flat-square" alt="NLP">
+
+**Machine learning & data**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Time--series_forecasting-334155?style=flat-square" alt="Time-series forecasting">
+
+**Backend & languages**<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/REST_APIs-1E5AA8?style=flat-square" alt="REST APIs">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++">
+<img src="https://img.shields.io/badge/x86--64_Assembly-6E4C13?style=flat-square" alt="x86-64 Assembly">
+
+**Cloud & DevOps**<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/EC2_·_Lambda_·_RDS_·_DynamoDB-FF9900?style=flat-square" alt="EC2 · Lambda · RDS · DynamoDB">
+<img src="https://img.shields.io/badge/VPC_·_IAM_·_API_Gateway-FF9900?style=flat-square" alt="VPC · IAM · API Gateway">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/CI%2FCD-2EA043?style=flat-square" alt="CI/CD">
+
+## 💼 Work experience
+
+<table>
+  <tr><th align="left">Role</th><th align="left">Organisation</th><th align="left">Dates</th></tr>
+  <tr><td>🟢 <b>Master's Thesis Researcher</b> – AI Security &amp; LLM Evaluation</td><td>RISE Research Institutes of Sweden &amp; BTH</td><td>Jan 2026 – Oct 2026</td></tr>
+  <tr><td>🔵 <b>AI &amp; Analytics Developer</b> – Volvo CE Supply Chain &amp; S&amp;OP Project</td><td>SUGAR Network · BTH &amp; University of São Paulo</td><td>Jan 2026 – Aug 2026</td></tr>
+  <tr><td>🟣 <b>Artificial Intelligence Intern</b> (Wipro collaboration)</td><td>SkillForge, India</td><td>Aug 2024 – Oct 2024</td></tr>
+  <tr><td>🟡 <b>Software Developer Intern</b></td><td>HDLC Technologies, India</td><td>Jun 2023 – Jul 2023</td></tr>
+  <tr><td>⚪ <b>Cybersecurity Intern</b></td><td>Skillish, India</td><td>Apr 2023 – Jul 2023</td></tr>
+</table>
+
+## 🧪 Featured projects
 
 <table>
   <tr>
@@ -60,30 +113,31 @@ I'm looking for **AI Solutions Architect, AI Engineer, ML Engineer and Data Scie
   </tr>
 </table>
 
-## Tech stack
+## 🏆 Achievements & awards
 
-**AI & machine learning**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/LLMs-Gemini_·_Qwen_·_Bedrock-6D28D9?style=flat-square" alt="LLMs">
-<img src="https://img.shields.io/badge/NLP-0F766E?style=flat-square" alt="NLP">
-<img src="https://img.shields.io/badge/Time--series_forecasting-334155?style=flat-square" alt="Time-series forecasting">
+- 🥇 **Ericsson Build Hackathon 2026:** Part of the team that won **1st place in Ericsson's Data Storage Optimization challenge** (SEK 5,000) and placed 3rd overall.
+- 🎓 **50% merit-based tuition scholarship**, Blekinge Institute of Technology, for both years of the MSc (2024 – 2026).
+- 🎖️ **75% merit scholarship award** for a Microsoft & Google certification in cloud, data analytics and AI.
 
-**Engineering & cloud**<br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++">
+## 📜 Certifications & training
 
-## Let's connect
+- ☁️ **AWS Certified Solutions Architect – Associate:** preparation course completed (Udemy), exam upcoming
+- 🤖 **AWS AI Practitioner Challenge:** generative AI with Amazon Bedrock
+- 📈 **Machine Learning Specialization:** predictive modelling, NLP and deep learning with TensorFlow and scikit-learn
+- 🔐 **Cybersecurity Certification – Skillish:** threat detection, vulnerability assessment, penetration testing
+
+## 🎓 Education
+
+<table>
+  <tr><th align="left">Degree</th><th align="left">University</th><th align="left">Years</th></tr>
+  <tr><td><b>MSc Computer Science</b><br><sub>Thesis: <i>Can Large Language Models Identify and Explain the Root Causes of Real-World Software Vulnerabilities?</i> (with RISE)</sub></td><td>Blekinge Institute of Technology (BTH), Sweden</td><td>2024 – 2026</td></tr>
+  <tr><td><b>B.Tech Computer Science</b><br><sub>BTH–JNTUK International Collaboration Program</sub></td><td>JNTU College of Engineering Kakinada, India</td><td>2020 – 2024</td></tr>
+</table>
+
+## 🗣️ Languages
+
+English (fluent) · Hindi (fluent) · Telugu (native) · Swedish (basic)
+
+## 🤝 Let's connect
 
 I'm happy to talk about AI engineering roles, LLM evaluation or anything in this profile. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/jyothi-madhurya-nalam) or [email](mailto:nmadhurya6@gmail.com).
