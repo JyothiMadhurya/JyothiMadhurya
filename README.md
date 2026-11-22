@@ -18,12 +18,12 @@ I'm looking for **AI Engineer, ML Engineer and Data Scientist** roles, and I can
 
 ## Highlights
 
-| | |
-|---|---|
-| 🏆 **Ericsson Build Hackathon 2026** | Part of the team that won **1st place in Ericsson's Data Storage Optimization challenge** (SEK 5,000) and placed 3rd overall. |
-| 🔬 **LLMs for software security** | Co-authored a master's thesis with **RISE Research Institutes of Sweden**: 2,076 evaluations of Gemini 2.5 Pro and Qwen3-235B on 346 real vulnerabilities. |
-| 📈 **Volvo Construction Equipment** | Built demand-forecasting pipelines and Python/Flask/Plotly dashboards in a SUGAR Network project with the University of São Paulo. |
-| ☁️ **Cloud** | Preparing for the AWS Certified Solutions Architect – Associate exam. |
+<table>
+  <tr><td width="32%">🏆 <b>Ericsson Build Hackathon 2026</b></td><td>Part of the team that won <b>1st place in Ericsson's Data Storage Optimization challenge</b> (SEK 5,000) and placed 3rd overall.</td></tr>
+  <tr><td>🔬 <b>LLMs for software security</b></td><td>Co-authored a master's thesis with <b>RISE Research Institutes of Sweden</b>: 2,076 evaluations of Gemini 2.5 Pro and Qwen3-235B on 346 real vulnerabilities.</td></tr>
+  <tr><td>📈 <b>Volvo Construction Equipment</b></td><td>Built demand-forecasting pipelines and Python/Flask/Plotly dashboards in a SUGAR Network project with the University of São Paulo.</td></tr>
+  <tr><td>☁️ <b>Cloud</b></td><td>Preparing for the AWS Certified Solutions Architect – Associate exam.</td></tr>
+</table>
 
 ## Featured projects
 
