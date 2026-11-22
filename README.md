@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Jyothi Madhurya Nalam – AI Engineer · LLMs · Machine Learning · Python" width="100%">
+  <img src="assets/banner-light.svg" alt="Jyothi Madhurya Nalam – AI Solutions Architect · AI Engineer · LLMs · AWS" width="100%">
 </picture>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ## About me
 
-I'm an AI engineer with an **MSc in Computer Science from Blekinge Institute of Technology (BTH), Sweden**. I build and evaluate applications with large language models and machine learning, mostly in Python, and I like turning research results into tools people can use.
+I'm an AI engineer with an **MSc in Computer Science from Blekinge Institute of Technology (BTH), Sweden**. I build and evaluate applications with large language models and machine learning, mostly in Python, and I like turning research results into tools people can use. I have also completed AWS Solutions Architect – Associate training and enjoy designing how AI systems run in the cloud.
 
-I'm looking for **AI Engineer, ML Engineer and Data Scientist** roles, and I can start immediately.
+I'm looking for **AI Solutions Architect, AI Engineer, ML Engineer and Data Scientist** roles, and I can start immediately.
 
 ## Highlights
 
@@ -22,7 +22,7 @@ I'm looking for **AI Engineer, ML Engineer and Data Scientist** roles, and I can
   <tr><td width="32%">🏆 <b>Ericsson Build Hackathon 2026</b></td><td>Part of the team that won <b>1st place in Ericsson's Data Storage Optimization challenge</b> (SEK 5,000) and placed 3rd overall.</td></tr>
   <tr><td>🔬 <b>LLMs for software security</b></td><td>Co-authored a master's thesis with <b>RISE Research Institutes of Sweden</b>: 2,076 evaluations of Gemini 2.5 Pro and Qwen3-235B on 346 real vulnerabilities.</td></tr>
   <tr><td>📈 <b>Volvo Construction Equipment</b></td><td>Built demand-forecasting pipelines and Python/Flask/Plotly dashboards in a SUGAR Network project with the University of São Paulo.</td></tr>
-  <tr><td>☁️ <b>Cloud</b></td><td>Preparing for the AWS Certified Solutions Architect – Associate exam.</td></tr>
+  <tr><td>☁️ <b>Cloud &amp; AI architecture</b></td><td>Completed the AWS Solutions Architect – Associate course (Udemy), with the certification exam coming up. Hands-on with EC2, RDS, VPC, Auto Scaling, IAM and CloudWatch.</td></tr>
 </table>
 
 ## Featured projects
@@ -48,14 +48,14 @@ I'm looking for **AI Engineer, ML Engineer and Data Scientist** roles, and I can
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JyothiMadhurya/Disease-Prediction">Disease Prediction</a></h3>
       <sub>🩺 Machine learning · NLP</sub>
-      <p>Predicts likely diseases from a list of symptoms and recommends treatments, using TF-IDF features and ensemble (stacking) classifiers.</p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>Pandas</code> <code>Jupyter</code></p>
+      <p>Predicts likely diseases from a list of symptoms and recommends treatments, using TF-IDF features and a stacking ensemble (Random Forest + XGBoost). 88% accuracy on the test set.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>XGBoost</code> <code>Pandas</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JyothiMadhurya/Spam-Classification">Spam Classification</a></h3>
-      <sub>✉️ Machine learning · Text classification</sub>
-      <p>A classifier that separates spam from legitimate messages.</p>
-      <p><code>Python</code> <code>Jupyter</code></p>
+      <h3><a href="https://github.com/JyothiMadhurya/Wine-Classification">Wine Quality Classification</a></h3>
+      <sub>🍷 Machine learning · Classification</sub>
+      <p>Predicts white-wine quality from 11 physicochemical measurements, comparing SVM and Random Forest with class-imbalance handling. 65% accuracy across 7 quality grades on 980 held-out wines.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>imbalanced-learn</code> <code>seaborn</code></p>
     </td>
   </tr>
 </table>
