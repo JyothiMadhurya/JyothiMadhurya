@@ -71,11 +71,11 @@
 
 <table>
   <tr><th align="left">Role</th><th align="left">Organisation</th><th align="left">Dates</th></tr>
-  <tr><td>🟢 <b>Master's Thesis Researcher</b> – AI Security &amp; LLM Evaluation</td><td>RISE Research Institutes of Sweden &amp; BTH</td><td>Jan 2026 – Oct 2026</td></tr>
-  <tr><td>🔵 <b>AI &amp; Analytics Developer</b> – Volvo CE Supply Chain &amp; S&amp;OP Project</td><td>SUGAR Network · BTH &amp; University of São Paulo</td><td>Jan 2026 – Aug 2026</td></tr>
-  <tr><td>🟣 <b>Artificial Intelligence Intern</b> (Wipro collaboration)</td><td>SkillForge, India</td><td>Aug 2024 – Oct 2024</td></tr>
-  <tr><td>🟡 <b>Software Developer Intern</b></td><td>HDLC Technologies, India</td><td>Jun 2023 – Jul 2023</td></tr>
-  <tr><td>⚪ <b>Cybersecurity Intern</b></td><td>Skillish, India</td><td>Apr 2023 – Jul 2023</td></tr>
+  <tr><td>🟢 <b>Master's Thesis Researcher</b> – AI Security &amp; LLM Evaluation</td><td>RISE Research Institutes of Sweden &amp; BTH</td><td nowrap>Jan&nbsp;2026&nbsp;–&nbsp;Oct&nbsp;2026</td></tr>
+  <tr><td>🔵 <b>AI &amp; Analytics Developer</b> – Volvo CE Supply Chain &amp; S&amp;OP Project</td><td>SUGAR Network · BTH &amp; University of São Paulo</td><td nowrap>Jan&nbsp;2026&nbsp;–&nbsp;Aug&nbsp;2026</td></tr>
+  <tr><td>🟣 <b>Artificial Intelligence Intern</b> (Wipro collaboration)</td><td>SkillForge, India</td><td nowrap>Aug&nbsp;2024&nbsp;–&nbsp;Oct&nbsp;2024</td></tr>
+  <tr><td>🟡 <b>Software Developer Intern</b></td><td>HDLC Technologies, India</td><td nowrap>Jun&nbsp;2023&nbsp;–&nbsp;Jul&nbsp;2023</td></tr>
+  <tr><td>⚪ <b>Cybersecurity Intern</b></td><td>Skillish, India</td><td nowrap>Apr&nbsp;2023&nbsp;–&nbsp;Jul&nbsp;2023</td></tr>
 </table>
 
 ## 🧪 Featured projects
@@ -130,8 +130,8 @@
 
 <table>
   <tr><th align="left">Degree</th><th align="left">University</th><th align="left">Years</th></tr>
-  <tr><td><b>MSc Computer Science</b><br><sub>Thesis: <i>Can Large Language Models Identify and Explain the Root Causes of Real-World Software Vulnerabilities?</i> (with RISE)</sub></td><td>Blekinge Institute of Technology (BTH), Sweden</td><td>2024 – 2026</td></tr>
-  <tr><td><b>B.Tech Computer Science</b><br><sub>BTH–JNTUK International Collaboration Program</sub></td><td>JNTU College of Engineering Kakinada, India</td><td>2020 – 2024</td></tr>
+  <tr><td><b>MSc Computer Science</b><br><sub>Thesis: <i>Can Large Language Models Identify and Explain the Root Causes of Real-World Software Vulnerabilities?</i> (with RISE)</sub></td><td>Blekinge Institute of Technology (BTH), Sweden</td><td nowrap>2024&nbsp;–&nbsp;2026</td></tr>
+  <tr><td><b>B.Tech Computer Science</b><br><sub>BTH–JNTUK International Collaboration Program</sub></td><td>JNTU College of Engineering Kakinada, India</td><td nowrap>2020&nbsp;–&nbsp;2024</td></tr>
 </table>
 
 ## 🗣️ Languages
